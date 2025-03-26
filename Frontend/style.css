@@ -1,0 +1,12 @@
+.container {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+button {
+    margin-top: 10px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
